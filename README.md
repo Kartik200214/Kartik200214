@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kartik200214
-- 🌱 I’m currently learning Java
+-  I’m currently learning  DSA in Java
 
 
 <!---
