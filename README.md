@@ -7,10 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik200214&label=Profile%20views&color=0e75b6&style=flat" alt="kartik200214" /> </p>
 
-- 🌱 I’m currently learning **Data science and Machine Learning**
 
+First of all, thanks for visiting my profile. Here, what you should know about me:
+
+
+- I am a self driven passionate coder who loves to solve problems and write efficient codes.
+- I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases).
+- I am looking forward to collaborate on Open-Source Projects.
+- I am just trying to impart my knowledge via repositories which will be quite helpful for others. 
 - 📫 How to reach me **kartikkolhe20@gmail.com**
-
 - ⚡ Fun fact **I love connecting with different people**
 
 <h3 align="left">Connect with me:</h3>
