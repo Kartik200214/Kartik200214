@@ -13,7 +13,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
 - I am happy to discuss about: Data Structures and Algorithms, Programming in Python/Java, Computer concepts(Operating Systems,Computer Networking,Databases).
-- I am looking forward to collaborate on Open-Source Projects.
+- 🌱 I’m currently learning **Next.js, TypeScript, Expo, React Native and Tailwind CSS**
 - I am just trying to impart my knowledge via repositories which will be quite helpful for others. 
 - 📫 How to reach me **kartikkolhe20@gmail.com**
 - ⚡ Fun fact **I love connecting with different people**
