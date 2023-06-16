@@ -17,7 +17,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 - I am just trying to impart my knowledge via repositories which will be quite helpful for others. 
 - 📫 How to reach me **kartikkolhe20@gmail.com**
 - ⚡ Fun fact **I love connecting with different people**
-- Life is about moving forward and making consistent progress.
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1wzLtrhyl6pQjMHjdRyeLUBzRvd2h4_z-/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
