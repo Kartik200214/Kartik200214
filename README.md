@@ -52,7 +52,7 @@
   <!-- ML/DL/AI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Artificial_intelligence_icon_-_business_idea_and_concept.svg/1024px-Artificial_intelligence_icon_-_business_idea_and_concept.svg.png" width="40" height="40" />
+  
   
   <!-- Web/Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
