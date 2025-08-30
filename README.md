@@ -16,7 +16,7 @@
 - 🤖 Exploring how to build **AI models** and **chatbots** using Python and ML frameworks.
 - 🌱 Constantly learning and working on hands-on projects to sharpen my skills.
 - 📬 Reach me at **kartikkolhe20@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1wzLtrhyl6pQjMHjdRyeLUBzRvd2h4_z-/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1TspgFqkon8D7mYeRMU8Gg5TiXT_3G85E/view?usp=sharing)
 
 ---
 
