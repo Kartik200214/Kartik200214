@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Kolhe</h1>
-<h3 align="center">Aspiring Java Developer | Problem Solver | Open to Work</h3>
+<h3 align="center">Aspiring Data Engineer |  Data Analyst | Problem Solver | Open to Work</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
@@ -12,8 +12,8 @@
 ### 🚀 About Me
 
 - 🔍 Passionate about building efficient, scalable, and user-focused applications using Java and modern technologies.
-- 💻 Currently focused on **Core Java**, **Advanced Java**, **Spring Boot**, and **SQL** and exploring full-stack development with **HTML**, **CSS**, and **JavaScript**..
-- 🤖 Enthusiastic about writing clean, maintainable code and continuously improving problem-solving and debugging skills..
+- 💻 Currently focused on **Data Engineering**, **Python**,**Machine Leaning**, **SQL**, and **LLMs**.
+- 🤖 Enthusiastic about writing clean, maintainable code and continuously improving problem-solving and debugging skills.
 - 🌱 Constantly learning new tools and frameworks to enhance my backend and application development expertise.
 - 📬 Reach me at **kartikkolhe20@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1WcQb2_znHKYfSTpkc9RExUTRAFbhRO5d/view?usp=sharing)
